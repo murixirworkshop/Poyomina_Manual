@@ -58,7 +58,7 @@
 
 ## 6. **シーンに配置**  
 
-- 以下のいずれかの **`Poyomina.prefab`**（または Blank 版を使用する場合は **`Poyomina_Blank.prefab`**）を **Hierarchy** にドラッグ＆ドロップしてください。  
+- 以下のいずれかの  `Poyomina.prefab` （または Blank 版を使用する場合は `Poyomina_Blank.prefab`）を **Hierarchy** にドラッグ＆ドロップしてください。  
   - `Assets/00_Murixir/06_Poyomina/` → **Poyomina.prefab（虎のポヨミナ）**  
   
   - `Assets/00_Murixir/06_Poyomina/10_Presets/Preset2/` → **Poyomina.prefab（豹のポヨミナ）**  
