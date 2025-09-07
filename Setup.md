@@ -26,8 +26,6 @@
 
 ![image-20250907185816115](PoyominaManual_Pict/VCC2.png)
 
-![image-20250907190252407](C:\UnityExport\06_Poyomina\Git\PoyominaManual_Pict\VCC2.png)
-
 ## 4. **必須パッケージのインストール
 
 プロジェクトが作成できたらまずManage Projectを選択し、lilToon, Modular Avatar, FaceEmoをインストールしてください。（Not Installedのプルダウンメニューから最新版を選択します）。
@@ -67,11 +65,11 @@
   
   - `Assets/00_Murixir/06_Poyomina/10_Presets/Preset3/` → **Poyomina.prefab（猫のポヨミナ）**
   
-    ![image-20250907193847044](C:\UnityExport\06_Poyomina\Git\PoyominaManual_Pict\Unity3.png)
+    ![image-20250907193847044](PoyominaManual_Pict/Unity3.png)
   
     成功するとポヨミナがシーンに置かれます。
   
-    ![image-20250907193930926](C:\UnityExport\06_Poyomina\Git\PoyominaManual_Pict\Unity4.png)
+    ![image-20250907193930926](PoyominaManual_Pict/Unity4.png)
 
 ## 7. **アップロード**  
 
