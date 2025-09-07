@@ -26,7 +26,7 @@
 
 ![image-20250907185816115](PoyominaManual_Pict/VCC2.png)
 
-## 4. **必須パッケージのインストール
+## 4. 必須パッケージのインストール
 
 プロジェクトが作成できたらまずManage Projectを選択し、lilToon, Modular Avatar, FaceEmoをインストールしてください。（Not Installedのプルダウンメニューから最新版を選択します）。
 
