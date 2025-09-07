@@ -58,7 +58,7 @@ Poyominaは以下の3つのExpression Menuを備えています：
 - **FaceEmo**  
   表情セットの切り替えや、アニメーションの再生を行います。
 
-![Expression1](PoyominaManual_Pict\Expression1.png)
+![Expression1](PoyominaManual_Pict/Expression1.png)
 
 ---
 
@@ -70,7 +70,7 @@ ClothMenuでは以下の項目をトグルでON/OFFできます：
 - **Pants**：ズボンの着脱  
 - **Body**：インナーのON/OFF  
 
-![Expression2](PoyominaManual_Pict\Expression2.png)
+![Expression2](PoyominaManual_Pict/Expression2.png)
 
 ---
 
@@ -85,7 +85,7 @@ BodyAdjustではシェイプキーとトグルで以下の調整が可能です�
 - **BreastSize**：胸のサイズをスライダーで調整します。  
 - **Belly**：おなかのサイズをスライダーで調整します。
 
-![Expression3](PoyominaManual_Pict\Expression3.png)
+![Expression3](PoyominaManual_Pict/Expression3.png)
 
 ---
 
@@ -93,21 +93,21 @@ BodyAdjustではシェイプキーとトグルで以下の調整が可能です�
 
 FaceEmoでは以下の4種類の表情セットから1つを選んで使用できます：
 
-![Expression4](PoyominaManual_Pict\Expression4.png)
+![Expression4](PoyominaManual_Pict/Expression4.png)
 
 - **Petit Muse**  
   シンプルな7種の基本表情。初心者向け。  
-  ![PetitMuse](PoyominaManual_Pict\PetitMuse.png)
+  ![PetitMuse](PoyominaManual_Pict/PetitMuse.png)
 - **Whimsy Palette**  
   64種類の表情を左右のジェスチャーの組み合わせで発動可能な上級者向けセット。  
   表情のカタログのように豊富なバリエーションを提供します。  
-  ![WhimsyParette](PoyominaManual_Pict\WhimsyParette.png)
+  ![WhimsyParette](PoyominaManual_Pict/WhimsyParette.png)
 - **Meltie Love**  
   瞳孔が♡になり、甘々で夢中な表情に切り替わります。  
-  ![MeltieLove](PoyominaManual_Pict\MeltieLove.png)
+  ![MeltieLove](PoyominaManual_Pict/MeltieLove.png)
 - **Possessive Noir**  
   瞳が真っ黒になり、執着心をにじませたメンヘラ風の表情に切り替わります。  
-  ![PossesiveNoir](PoyominaManual_Pict\PossesiveNoir.png)
+  ![PossesiveNoir](PoyominaManual_Pict/PossesiveNoir.png)
 
 ---
 
@@ -180,7 +180,7 @@ Poyominaには、機能ごとに細かく分離された複数のアニメータ
 以下は、Poyominaプレハブ内部の構成です：  
 `Poyomina.prefab` 直下に主要な機能オブジェクトがまとめられています。
 
-![image-20250907151818589](PoyominaManual_Pict\Animators1.png)
+![image-20250907151818589](PoyominaManual_Pict/Animators1.png)
 
 | オブジェクト名  | 内容・補足                                                   |
 | --------------- | ------------------------------------------------------------ |
@@ -221,7 +221,7 @@ Poyominaのアニメーター構成は以下のようになっています。**P
   各種状態遷移はパラメータに反映されるため、これらのパラメータを参照することでデフォルト服のアニメーションをシンプルに制御しています。
   
 - **各服パーツごとのアニメーター**  
-  BodySuits, Hoody, Pantsなど、衣装ごとに独立したシェイプキー制御／表示非表示切替アニメーションを保持しており、不要なパーツを個別に削除することが可能です。例えば、Prefab内のClothMenu/Bodyにはインナーのボディスーツ用のMA Menu Item、MA Parameters および MA Merge Animaorコンポーネントがついており、これ単体を削除することでボディスーツ用のメニューとアニメーションを削除することができます。![image-20250907151519941](PoyominaManual_Pict\Animators2.png)
+  BodySuits, Hoody, Pantsなど、衣装ごとに独立したシェイプキー制御／表示非表示切替アニメーションを保持しており、不要なパーツを個別に削除することが可能です。例えば、Prefab内のClothMenu/Bodyにはインナーのボディスーツ用のMA Menu Item、MA Parameters および MA Merge Animaorコンポーネントがついており、これ単体を削除することでボディスーツ用のメニューとアニメーションを削除することができます。![image-20250907151519941](PoyominaManual_Pict/Animators2.png)
 
 - **FaceEmoによる表情制御**  
   表情制御は、Suzuryg氏の[FaceEmo](https://suzuryg.github.io/face-emo/)に準拠した構成になっており、表情セット（Petit Muse など）の切り替えやアニメーション再生を専用アニメーターで行います。  
@@ -251,11 +251,11 @@ Poyominaの表情制御は、Suzuryg氏による外部パッケージ [FaceEmo](
 >
 > SceneにFaceEmo_Poyominaがロードされれば成功です。(3)
 
-(1)![FaceEmo1](PoyominaManual_Pict\FaceEmo1.png)
+(1)![FaceEmo1](PoyominaManual_Pict/FaceEmo1.png)
 
-(2)![FaceEmo2](PoyominaManual_Pict\FaceEmo2.png)
+(2)![FaceEmo2](PoyominaManual_Pict/FaceEmo2.png)
 
-(3)![FaceEmo3](PoyominaManual_Pict\FaceEmo3.png)
+(3)![FaceEmo3](PoyominaManual_Pict/FaceEmo3.png)
 
 
 
@@ -276,7 +276,7 @@ FaceEmoの「表情の設定」画面で、**対象GameObjectやPhysBoneコン�
 
 > FaceEmo_PoyominaのInspectorを確認し、追加表情オブジェクト(Toggle)および追加表情オブジェクト(Transform)が画像のように設定されていることを確認してください。(4)
 
-(4)![FaceEmo4](PoyominaManual_Pict\FaceEmo4.png)
+(4)![FaceEmo4](PoyominaManual_Pict/FaceEmo4.png)
 
 ---
 
