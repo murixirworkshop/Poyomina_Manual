@@ -78,9 +78,7 @@ Poyominaのアニメーター構成は以下のようになっています。**P
 - **BodyControl用パラメータ制御**  
   主にBodyAdjustメニューで操作されるトグル／スライダー系のパラメータ制御。
 
-  #### 🗂 PoyominaMainBody.controller
-  
-  Poyomina の本体Animatorには、以下のようなレイヤー構成が含まれています。
+  **🗂 PoyominaMainBody.controller**には、以下のようなレイヤー構成が含まれています。
   
   | レイヤー名           | 説明                                                         |
   | -------------------- | ------------------------------------------------------------ |
@@ -120,17 +118,18 @@ Poyominaの表情制御は、Suzuryg氏による外部パッケージ [FaceEmo](
 
 > PoyominaのPrefabをシーンに配置します。
 >
-> UnityのMenuから`FaceEmo/Restore Menu`を選択してください。(1)
+> UnityのMenuから`FaceEmo/Restore Menu`を選択してください。
 >
-> `Suzuryg/FaceEmo/Backup/FaceEmo_Poyomina.asset`を選択してください。(2)
->
-> SceneにFaceEmo_Poyominaがロードされれば成功です。(3)
 
-(1)![FaceEmo1](PoyominaManual_Pict/FaceEmo1.png)
+![FaceEmo1](PoyominaManual_Pict/FaceEmo1.png)
 
-(2)![FaceEmo2](PoyominaManual_Pict/FaceEmo2.png)
+`Suzuryg/FaceEmo/Backup/FaceEmo_Poyomina.asset`を選択してください
 
-(3)![FaceEmo3](PoyominaManual_Pict/FaceEmo3.png)
+![FaceEmo2](PoyominaManual_Pict/FaceEmo2.png)
+
+SceneにFaceEmo_Poyominaがロードされれば成功です。
+
+![FaceEmo3](PoyominaManual_Pict/FaceEmo3.png)
 
 
 
@@ -149,9 +148,9 @@ Poyominaの表情制御は、Suzuryg氏による外部パッケージ [FaceEmo](
 
 FaceEmoの「表情の設定」画面で、**対象GameObjectやPhysBoneコンポーネントを正しく設定**してください。
 
-> FaceEmo_PoyominaのInspectorを確認し、追加表情オブジェクト(Toggle)および追加表情オブジェクト(Transform)が画像のように設定されていることを確認してください。(4)
+> FaceEmo_PoyominaのInspectorを確認し、追加表情オブジェクト(Toggle)および追加表情オブジェクト(Transform)が画像のように設定されていることを確認してください。
 
-(4)![FaceEmo4](PoyominaManual_Pict/FaceEmo4.png)
+![FaceEmo4](PoyominaManual_Pict/FaceEmo4.png)
 
 ---
 

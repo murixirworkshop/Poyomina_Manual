@@ -77,7 +77,7 @@
 
   ![image-20250907195120702](PoyominaManual_Pict/SDK1.png)
 
-  Avatar Infoを入力してください。
+- ログインするとBuilderタブからAvatarの情報を入力できるようになります。Name, Visibility, サムネイルを設定してアップロードします。
 
 > ⚠️ <span style="color:red; font-weight:bold;">注意</span>  
 > Visibility の項目は <span style="color:red; font-weight:bold;">必ず Private</span> に設定してください。  
