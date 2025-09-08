@@ -14,7 +14,7 @@
 | `03_Textures`           | **各種テクスチャ**（カラー・マスク・マットキャップなど）を格納。<br>PresetsごとのBaseColorもここにあります。 |
 | `04_Controllers`        | **Animator Controllerおよびメニュー群**。<br>直下のアセットはBodyAdjustを制御するコントローラとメニューです。<br>C01_DefaultCloth以下にはデフォルトの衣装の切り替え用のコントローラとメニューです。 |
 | `05_FaceAnimations`     | **表情セット**（FaceEmo対応）。<br>各表情セットごとにフォルダが分かれています。 |
-| `06_OtherAnimations`    | **耳・ツメ・体型・音など補助アニメーション全般**。<br>BodyControlやClaw制御。 |
+| `06_OtherAnimations`    | **耳・ツメ・体型・音など補助アニメーション全般**。<br>BodyControlやClaw制御アニメーションがあります。 |
 | `08_SoundEffects`       | **SE（効果音）ファイル群**。表情やギミックで再生される音素材です。 |
 | `09_Particles`          | **パーティクル素材**。未使用のものも含みます。               |
 | `10_Presets`            | **プリセット別のPrefab格納先**。Preset2（豹）、Preset3（猫）が含まれます。 |
@@ -42,6 +42,12 @@ Poyominaには、外見の異なる3種類のプリセットが用意されて�
 | Poyomina_Blank (Preset1) | `06_Poyomina/Poyomina_Blank.prefab`                    |
 | Poyomina_Blank (Preset2) | `06_Poyomina/10_Presets/Preset2/Poyomina_Blank.prefab` |
 | Poyomina_Blank (Preset3) | `06_Poyomina/10_Presets/Preset3/Poyomina_Blank.prefab` |
+
+Blank版もBodyAdjust機能は含まれています。不要の場合はVRC Avatar DescripterコンポーネントのFX欄からPoyominaMainBody.controllerを削除してください。その場合メニューも不要になるため、ExpressionsをReset to Defaultしてメニューとパラメータを削除してください。表情アニメーションも自分で設定する場合は表情改変ガイドの [ポイント3：FaceEmoを使わず表情を設定したい場合](# ✅ ポイント3：FaceEmoを使わず表情を設定したい場合)を参考にしてください。
+
+![image-20250908141039025](PoyominaManual_Pict/Descripter.png)
+
+![image-20250908141252691](PoyominaManual_Pict/Descripter2.png)
 
 ---
 ## Prefabとアニメーターの構成
