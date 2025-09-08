@@ -43,7 +43,7 @@ Poyominaには、外見の異なる3種類のプリセットが用意されて�
 | Poyomina_Blank (Preset2) | `06_Poyomina/10_Presets/Preset2/Poyomina_Blank.prefab` |
 | Poyomina_Blank (Preset3) | `06_Poyomina/10_Presets/Preset3/Poyomina_Blank.prefab` |
 
-Blank版もBodyAdjust機能は含まれています。不要の場合はVRC Avatar DescripterコンポーネントのFX欄からPoyominaMainBody.controllerを削除してください。その場合メニューも不要になるため、ExpressionsをReset to Defaultしてメニューとパラメータを削除してください。表情アニメーションも自分で設定する場合は表情改変ガイドの [ポイント3：FaceEmoを使わず表情を設定したい場合](# ✅ ポイント3：FaceEmoを使わず表情を設定したい場合)を参考にしてください。
+Blank版もBodyAdjust機能は含まれています。不要の場合はVRC Avatar DescripterコンポーネントのFX欄からPoyominaMainBody.controllerを削除してください。その場合メニューも不要になるため、ExpressionsをReset to Defaultしてメニューとパラメータを削除してください。表情アニメーションも自分で設定する場合は表情改変ガイドの [ポイント3：FaceEmoを使わず表情を設定したい場合](### ✅ ポイント3：FaceEmoを使わず表情を設定したい場合)を参考にしてください。
 
 ![image-20250908141039025](PoyominaManual_Pict/Descripter.png)
 
