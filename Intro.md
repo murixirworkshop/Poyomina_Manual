@@ -1,9 +1,9 @@
 # はじめに
 - 本アバターの利用規約については以下を参照してください。<BR>
-  [利用規約](/Poyomina_Manual/License/20250908110914vn3license_ja.pdf)<BR>
-  [Terms of Use](/Poyomina_Manual/License/20250908110914vn3license_en.pdf)<BR>
-  [이용약관 ](/Poyomina_Manual/License/20250908110914vn3license_ko.pdf)<BR>
-  [使用条款](/Poyomina_Manual/License/20250908110914vn3license_zh.pdf)<BR>
+  [利用規約](/License/20250908110914vn3license_ja.pdf)<BR>
+  [Terms of Use](/License/20250908110914vn3license_en.pdf)<BR>
+  [이용약관 ](/License/20250908110914vn3license_ko.pdf)<BR>
+  [使用条款](/License/20250908110914vn3license_zh.pdf)<BR>
   
   <BR>
   
