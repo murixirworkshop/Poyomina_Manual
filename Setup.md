@@ -4,7 +4,7 @@
 
 - [Unity(2022.3.22f1)](https://unity.com/ja/download)をダウンロード・インストールしてください。
 
-- **[VRChat Creator Companion](https://unity.com/ja/download)** **(VCC)** を導入してください。
+- **[VRChat Creator Companion](http://vrchat.com/home/download)** **(VCC)** を導入してください。
 
   ![image-20250907185325640](PoyominaManual_Pict/VCC0.png)
 
