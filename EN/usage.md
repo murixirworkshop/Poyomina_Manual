@@ -57,7 +57,7 @@ Choose one of four expression sets:
 ## Operating FaceEmo
 Refer to the official documentation for basic FaceEmo usage:
 
-👉 [FaceEmo Operation Guide (Setting Menu)](https://suzuryg.github.io/face-emo/ja/docs/optional-functions/setting-menu/)
+👉 [FaceEmo Operation Guide (Setting Menu)](https://suzuryg.github.io/face-emo/docs/optional-functions/setting-menu/)
 
 *The same page also covers the dance gimmick.*  
 *Known issue: During dance gimmicks, the Body Adjust “Breast Size” slider may not work correctly. If you need different default proportions when using dance gimmicks, see the Modification Guide and setup and apply default proportion as you wish.*
