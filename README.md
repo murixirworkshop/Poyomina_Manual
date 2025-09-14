@@ -1,10 +1,5 @@
-# PoyominaEx マニュアル
+# Poyomina マニュアル
 
-PoyominaExのマニュアルにようこそ！サイドバーから必要な項目を参照してください。
+ポヨミナのマニュアルにようこそ！サイドバーから必要な項目を参照してください。
 
-
-
-[日本語](/JP/)
-
-[English](/EN/)
-
+<img src="PoyominaManual_Pict/Top.png" alt="Top" style="zoom: 50%;" />
