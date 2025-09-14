@@ -1,28 +1,63 @@
-# Basic Operations
-
-This chapter explains the main interaction operations, such as Poyomina's expressions and body gimmicks.
+# Basic Usage
+This chapter explains how to operate Poyomina’s expressions and body gimmicks.
 
 ---
 
-## Expression Menu (Expressions and Gimmick Operations)
+## Expression Menu
+Poyomina has three Expression Menus:
 
-When PoyominaEx is imported, "PoyoEx" will be newly added to the menu:
+- **ClothMenu** – Toggle the default outfit on/off.
+- **BodyAdjust** – Adjust body features using blendshapes.
+- **FaceEmo** – Switch expression sets or play animations.
+![Expression1](../PoyominaManual_Pict/Expression1.png)
 
-![Exmenu](../Images/PoyoEx4.png)
+---
 
-When you select PoyoEx, you can use the following functions from the sub-menu.
+## ClothMenu (Outfit)
+Toggle the following items:
 
-- **ExBody_Toggle**
-  ExBody is OFF by default to prevent accidents.
-  By turning ExBody_Toggle ON, the ExBody will be displayed.
-- **Ex_V_Auto**
-  When the Auto function is ON, the PhysBone in the private area turns ON, and you can interactively open and close the private area with your fingers.
-  If it is set to OFF, it will not animate.
-- **V_Open**
-  Opens and closes the front of the private area without referencing PhysBone.
-- **A_Open**
-  Opens and closes the back of the private area without referencing PhysBone.
-- **Well-used**
-  The color of the private area changes to look well-used.
+- **Hoody** – Put on/off the hoodie.
+- **Pants** – Put on/off the pants.
+- **Body** – Toggle the inner suit.
+![Expression2](../PoyominaManual_Pict/Expression2.png)
 
-![Exmenu2](../Images/PoyoEx5.png)
+---
+
+## BodyAdjust (Body Shape)
+Adjust via toggles and sliders:
+
+- **Claw** – ON extends claws; OFF retracts.
+- **Claw Auto** – Perform Fist → Open gesture in front of face to auto extend/retract claws.
+- **Nipple** – ON makes nipples appear.
+- **Nipple Auto** – When OFF, touching the nipple grows it through 20 stages until it switches ON.
+- **BreastSize** – Adjust chest size with a slider.
+- **Belly** – Adjust belly size with a slider.
+![Expression3](../PoyominaManual_Pict/Expression3.png)
+
+---
+
+## FaceEmo (Expression Sets)
+Choose one of four expression sets:
+![Expression4](../PoyominaManual_Pict/Expression4.png)
+
+- **Petit Muse** – Seven simple basic expressions; beginner-friendly.  
+  ![PetitMuse](../PoyominaManual_Pict/PetitMuse.png)
+
+- **Whimsy Palette** – 64 expressions triggered by left/right gesture combos; advanced, catalog-like variety.  
+  ![WhimsyParette](../PoyominaManual_Pict/WhimsyParette.png)
+
+- **Meltie Love** – Pupils become hearts for a sweet, enamored look.  
+  ![MeltieLove](../PoyominaManual_Pict/MeltieLove.png)
+
+- **Possessive Noir** – Eyes turn pitch black, giving an obsessive “yandere” vibe.  
+  ![PossesiveNoir](../PoyominaManual_Pict/PossesiveNoir.png)
+
+---
+
+## Operating FaceEmo
+Refer to the official documentation for basic FaceEmo usage:
+
+👉 [FaceEmo Operation Guide (Setting Menu)](https://suzuryg.github.io/face-emo/docs/optional-functions/setting-menu/)
+
+*The same page also covers the dance gimmick.*  
+*Known issue: During dance gimmicks, the Body Adjust “Breast Size” slider may not work correctly. If you need different default proportions when using dance gimmicks, see the Modification Guide and setup and apply default proportion as you wish.*

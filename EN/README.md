@@ -1,9 +1,3 @@
-# PoyominaEx Manual
-
-Welcome to the PoyominaEx manual! Please refer to the necessary items from the sidebar.
-
-
-
-[日本語のマニュアルを見る](/JP/)
-
-[English](/EN/)
+# Poyomina Manual
+Welcome to the Poyomina manual! Please refer to the necessary items from the sidebar.
+<img src="../PoyominaManual_Pict/Top.png" alt="Top" style="zoom: 50%;" />
