@@ -1,3 +1,9 @@
-- [Introduction](Intro.md)
-- [Setup](Setup.md)
-- [Basic Usage](usage.md)
+[JP](/JP/) / [EN](/EN/)
+
+
+
+[Introduction](Intro.md)
+
+[Setup](Setup.md)
+
+[Basic Usage](usage.md)
