@@ -1,3 +1,3 @@
-# Poyomina Manual
-Welcome to the Poyomina manual! Please refer to the necessary items from the sidebar.
-<img src="../PoyominaManual_Pict/Top.png" alt="Top" style="zoom: 50%;" />
+# PoyominaEx Manual
+
+Welcome to the PoyominaEx manual! Please refer to the necessary items from the sidebar.
