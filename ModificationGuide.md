@@ -137,9 +137,9 @@ SceneにFaceEmo_Poyominaがロードされれば成功です。
 
 ![FaceEmo3](PoyominaManual_Pict/FaceEmo3.png)
 
+このようなエラーが表示された場合、Scene上のPoyominaのPrefabを"Poyomina"にリネームして再度実行してみてください。それでも失敗する場合はポイント２を参考に設定をしてください。
 
-
-
+![image-20251003060730989](PoyominaManual_Pict/Error1.png)****
 
 ---
 
