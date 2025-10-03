@@ -99,6 +99,14 @@ To restore default menus:
 ![FaceEmo2](../PoyominaManual_Pict/FaceEmo2.png)
 ![FaceEmo3](../PoyominaManual_Pict/FaceEmo3.png)
 
+
+
+In case of following error, you can try it again after renaming the Poyomina in the Scene to "Poyomina". If it still doesn't work, try manual setting according to Point2.
+
+![image-20251003060730989](../PoyominaManual_Pict/Error1.png)****
+
+
+
 ### ✅ Point 2: Setting Animation Target References
 When animating PhysBones or toggle objects with expressions, **ensure the target objects are referenced** in FaceEmo settings. Otherwise issues like stuck tongues or unresponsive expressions may occur.
 
